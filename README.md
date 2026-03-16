@@ -12,3 +12,4 @@ Python
 Streamlit
 Plotly
 Google Gemini API
+Note: This is a prototype built for a hackathon demonstration.
